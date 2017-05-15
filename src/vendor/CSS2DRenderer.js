@@ -5,7 +5,7 @@
  * @author mrdoob / http://mrdoob.com/
  */
 
-import THREE from 'three';
+import * as THREE from 'three';
 
 var CSS2DObject = function ( element ) {
 
